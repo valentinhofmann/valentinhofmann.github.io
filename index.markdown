@@ -10,6 +10,6 @@ a researcher at the [Center for Information and Language Processing](https://www
 [Hinrich Schütze](https://www.cis.uni-muenchen.de/schuetze/). My PhD is funded by the [Arts and Humanities Research Council](https://ahrc.ukri.org/) 
 and the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/).
 
-My current research focuses on the link between cognitive and social aspects of language and deep learning models of language.
+My current research focuses on the link between NLP, cognitive science, and sociolinguistics.
 I'm particularly interested in computational morphology.
 

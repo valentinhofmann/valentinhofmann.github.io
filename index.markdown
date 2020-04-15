@@ -13,3 +13,5 @@ and the [German Academic Scholarship Foundation](https://www.studienstiftung.de/
 My current research focuses on the link between NLP, cognitive science, and sociolinguistics.
 I'm particularly interested in computational morphology.
 
+E-mail: valentin.hofmann[at]ling-phil.ox.ac.uk
+

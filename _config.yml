@@ -28,6 +28,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 theme: minima
 
+# Google Analytics
+google_analytics: UA-163777704-1
 
         
 plugins:

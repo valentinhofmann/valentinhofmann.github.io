@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+active: Publications
 ---
 # 2020
 

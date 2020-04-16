@@ -24,6 +24,7 @@ $red-color:        #ad1f1f !default;
 
 $table-text-align: left !default;
 
+
 // Width of the content area
 $content-width:    800px !default;
 
@@ -42,6 +43,7 @@ $on-laptop:        800px !default;
     @content;
   }
 }
+
 
 @mixin relative-font-size($ratio) {
   font-size: $base-font-size * $ratio;

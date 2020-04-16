@@ -46,16 +46,16 @@
 	&:hover {
     color: $grey-color;
   }
-  
-    &:current {
-    color: $grey-color;
-  }
 	
    
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
 	   margin-right: 20px;
     }
+  }
+  
+  .current {
+    color: $grey-color;
   }
   
 

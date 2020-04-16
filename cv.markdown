@@ -3,4 +3,4 @@ layout: page
 title: CV
 active: CV
 ---
-<iframe src="{{ site.baseurl }}/data/valentin_hofmann_cv.pdf" width="100%" height="800em"></iframe>
+<iframe width="100%" height="350" src="{{ site.baseurl }}/data/cv.pdf" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

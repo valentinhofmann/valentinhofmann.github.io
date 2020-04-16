@@ -10,7 +10,7 @@ a researcher at the [Center for Information and Language Processing](https://www
 [Hinrich Schütze](https://www.cis.uni-muenchen.de/personen/professoren/schuetze/index.html). My PhD is funded by the [Arts and Humanities Research Council](https://ahrc.ukri.org/) 
 and the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/).
 
-My current research focuses on the link between NLP, cognitive science, and sociolinguistics.
+My current research focuses on the link between natural language processing, cognitive science, and sociolinguistics.
 I'm particularly interested in computational morphology.
 
 E-mail: valentin.hofmann[at]ling-phil.ox.ac.uk

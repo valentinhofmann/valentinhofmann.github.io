@@ -40,11 +40,11 @@
   }
 
   .page-link {
-    color: $grey-color-light;
+    color: $grey-color;
     line-height: $base-line-height;
 	
 	&:hover {
-    color: $grey-color;
+    color: $grey-color-light;
   }
 	
    
@@ -55,7 +55,7 @@
   }
   
   .current {
-    color: $grey-color;
+    color: $grey-color-light;
   }
   
 

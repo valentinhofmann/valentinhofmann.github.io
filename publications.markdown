@@ -5,6 +5,10 @@ active: Publications
 ---
 # 2020
 
+Valentin Hofmann, Janet Pierrehumbert, and Hinrich Schütze. Dynamic contextualized word embeddings.
+arXiv:2010.12684.
+[\[Preprint\]](https://arxiv.org/pdf/2010.12684.pdf)
+
 Valentin Hofmann, Janet Pierrehumbert, and Hinrich Schütze. DagoBERT: Generating derivational morphology with a pretrained language model.
 EMNLP 2020.
 [\[Preprint\]](https://arxiv.org/pdf/2005.00672.pdf)

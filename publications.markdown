@@ -11,7 +11,7 @@ arXiv:2010.12684.
 
 Valentin Hofmann, Janet Pierrehumbert, and Hinrich Schütze. DagoBERT: Generating derivational morphology with a pretrained language model.
 EMNLP 2020.
-[\[Preprint\]](https://arxiv.org/pdf/2005.00672.pdf)
+[\[Paper\]](https://www.aclweb.org/anthology/2020.emnlp-main.316.pdf)
 
 Valentin Hofmann, Janet Pierrehumbert, and Hinrich Schütze. Predicting the growth of morphological families from social and linguistic factors.
 ACL 2020.

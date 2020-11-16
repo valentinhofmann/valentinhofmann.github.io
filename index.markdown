@@ -11,7 +11,7 @@ a researcher at the [Center for Information and Language Processing](https://www
 and the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/).
 
 My current research focuses on the link between natural language processing and computational social science.
-I'm particularly interested in derivational morphology.
+I'm particularly interested in lexical dynamics and derivational morphology.
 
 E-mail: valentin.hofmann[at]ling-phil.ox.ac.uk
 

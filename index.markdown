@@ -9,6 +9,7 @@ a researcher at the [Center for Information and Language Processing](https://www
 [LMU Munich](https://www.en.uni-muenchen.de/). I'm co-advised by [Janet Pierrehumbert](https://eng.ox.ac.uk/people/janet-pierrehumbert/) and 
 [Hinrich Schütze](https://www.cis.uni-muenchen.de/personen/professoren/schuetze/index.html). My PhD is funded by the [Arts and Humanities Research Council](https://ahrc.ukri.org/) 
 and the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/).
+I hold an MSc in Computational Linguistics and Computer Science from LMU Munich and an MSt in Linguistics from the University of Oxford.
 
 My current research focuses on the link between natural language processing and computational social science.
 I'm particularly interested in lexical dynamics and derivational morphology.

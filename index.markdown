@@ -11,7 +11,7 @@ a researcher at the [Center for Information and Language Processing](https://www
 and the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/).
 I hold an MSc in Computational Linguistics and Computer Science from LMU Munich and an MSt in Linguistics from the University of Oxford.
 
-My current research focuses on the link between natural language processing and computational social science.
+My current research focuses on the link between natural language processing and the social and cognitive sciences.
 I'm particularly interested in lexical dynamics and derivational morphology.
 
 E-mail: valentin.hofmann[at]ling-phil.ox.ac.uk

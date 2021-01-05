@@ -3,6 +3,14 @@ layout: page
 title: Publications
 active: Publications
 ---
+# 2021
+
+Valentin Hofmann, Janet Pierrehumbert, and Hinrich Schütze. Superbizarre is not superb: Improving BERT's interpretations of
+complex words with derivational morphology.
+arXiv:2101.00403.
+[\[Preprint\]](https://arxiv.org/pdf/2101.00403.pdf)
+
+
 # 2020
 
 Valentin Hofmann, Janet Pierrehumbert, and Hinrich Schütze. Dynamic contextualized word embeddings.

@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://valentinhofmann.github.io/sitemap.xml
